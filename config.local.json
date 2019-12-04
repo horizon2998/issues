@@ -1,0 +1,8 @@
+{
+    "database": {
+       "user": "root",
+       "password": "123",
+       "database": "issues_building_demo1",
+       "address": "localhost:8080"
+    }    
+}
